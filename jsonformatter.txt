@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Assembly"
+  },
+  {
+    "name": "Painting"
+  },
+  {
+    "name": "Inspection"
+  },
+  {
+    "name": "Handling"
+  }
+]
